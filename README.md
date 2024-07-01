@@ -16,6 +16,8 @@ This repository contains a detailed analysis of the June 2024 parliamentary cons
   - Comparative analysis of parties' performance.
 - **Analysis**: Insights derived from the visual data.
 - **Code**: Scripts used to generate the visualizations and perform the analysis.
+![Screenshot 2024-07-01 081853](https://github.com/gr7870/General-Election-2024/assets/104223344/2f1ba545-668a-4a4c-bb6a-864e4135cb34)
+
 
 ## Visualizations
 
